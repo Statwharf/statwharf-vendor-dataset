@@ -1,0 +1,9 @@
+{
+  "title": "StatWharf B2B Software Vendor Dataset",
+  "upload_type": "dataset",
+  "description": "Vendors compared on StatWharf B2B software category pages: 176 categories, 1,700 vendor rows. Each row records the buyer segment, the documentation-supported buyer fit, the dated pricing note and the vendor source read by StatWharf Editorial. No scores or ranks. Snapshot 2026-09-25.",
+  "creators": [{ "name": "StatWharf Editorial" }],
+  "license": "cc-by-4.0",
+  "keywords": ["B2B software", "software vendors", "software pricing", "software comparison", "SaaS"],
+  "related_identifiers": [{ "identifier": "https://statwharf.com/best/", "relation": "isSupplementTo", "scheme": "url" }]
+}
