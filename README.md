@@ -1,5 +1,7 @@
 # StatWharf B2B Software Vendor Dataset
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22959030.svg)](https://doi.org/10.5281/zenodo.22959030)
+
 This dataset lists the B2B software vendors on the StatWharf [category pages](https://statwharf.com/best/). Each row records one vendor in one category, with the buyer fit, the dated pricing note and the source that StatWharf checked.
 
 Snapshot: 2026-09-25. 176 categories, 1,700 vendor rows, 1,438 distinct vendors.
@@ -60,7 +62,7 @@ The data is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4
 ## Citation
 
 ```
-StatWharf Editorial. (2026). StatWharf B2B Software Vendor Dataset (2026-09-25) [Data set]. https://statwharf.com/
+StatWharf Editorial. (2026). StatWharf B2B Software Vendor Dataset (2026-09-25) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.22959030
 ```
 
 ## Corrections
